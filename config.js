@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Tlenoterapia Tychy',
-  subHeading: 'Sztachnij się O2 i ciesz się ',
+  subHeading: 'Sztachnij się O2 i ciesz się zyciem heja!',
   // social
   socialLinks: [
     {
